@@ -6,7 +6,6 @@ const AppHeader = () => {
   return (
     <div className='p-3 w-full shadow justify-between items-center flex'>
       <SidebarTrigger />
-      <Button>Sign In</Button>
     </div>
   )
 }
